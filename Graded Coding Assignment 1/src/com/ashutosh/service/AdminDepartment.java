@@ -1,6 +1,8 @@
 package com.ashutosh.service;
 
-public class AdminDepartment {
+import com.ashutosh.model.SuperDepartment;
+
+public class AdminDepartment extends SuperDepartment {
 	
 	public String departmentName() {
 		

@@ -1,6 +1,8 @@
 package com.ashutosh.service;
 
-public class HRDepartment {
+import com.ashutosh.model.SuperDepartment;
+
+public class HRDepartment extends SuperDepartment {
 	
 	public String departmentName() {
 		
@@ -11,6 +13,12 @@ public class HRDepartment {
 	public String getTodaysWork() {
 		
 		return "Fill today’s worksheet and mark your attendance";
+		
+	}
+	
+	public String getWorkDeadline() {
+		
+		return "Complete by EOD";
 		
 	}
 	

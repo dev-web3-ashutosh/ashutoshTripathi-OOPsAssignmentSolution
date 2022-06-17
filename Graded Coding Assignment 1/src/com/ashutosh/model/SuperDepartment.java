@@ -16,7 +16,7 @@ public class SuperDepartment { //superclass
 		
 	}
 	
-	//superclass method to get deadline for assignment
+	//superclass method to get assignment deadline
 	public String getWorkDeadline() {
 		
 		return "Nil";

@@ -20,6 +20,10 @@ public class SuperDepartment {
 		
 	}
 	
-	
+	public String isTodayAHoliday() {
+		
+		return "Today is not a holiday";
+		
+	}
 
 }

@@ -14,6 +14,12 @@ public class SuperDepartment {
 		
 	}
 	
+	public String getWorkDeadline() {
+		
+		return "Nil";
+		
+	}
+	
 	
 
 }

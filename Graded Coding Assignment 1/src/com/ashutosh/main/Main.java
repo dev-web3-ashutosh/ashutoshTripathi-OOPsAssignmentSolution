@@ -7,6 +7,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		SuperDepartment adminObj = new SuperDepartment();
+		SuperDepartment hrObj = new SuperDepartment();
 		
 
 	}

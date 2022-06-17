@@ -16,6 +16,12 @@ public class TechDepartment extends SuperDepartment {
 		
 	}
 	
+	public String getWorkDeadline() {
+		
+		return "Complete by EOD";
+		
+	}
+	
 	
 
 }

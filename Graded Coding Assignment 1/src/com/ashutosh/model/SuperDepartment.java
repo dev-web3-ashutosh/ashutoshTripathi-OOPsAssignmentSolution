@@ -7,5 +7,13 @@ public class SuperDepartment {
 		return "Super Department";
 		
 	}
+	
+	public String getTodaysWork() {
+		
+		return "No Work as of now";
+		
+	}
+	
+	
 
 }

@@ -12,7 +12,7 @@ public class AdminDepartment extends SuperDepartment {
 
 	public String getTodaysWork() {
 		
-		return "Complete your documents Submission";
+		return "Complete your documents submission";
 		
 	}
 	

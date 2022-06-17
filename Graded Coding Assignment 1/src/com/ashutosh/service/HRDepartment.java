@@ -22,6 +22,10 @@ public class HRDepartment extends SuperDepartment {
 		
 	}
 	
-	
+	public String doActivity() {
+		
+		return "team Lunch";
+		
+	}
 
 }

@@ -8,6 +8,12 @@ public class HRDepartment {
 		
 	}
 	
+	public String getTodaysWork() {
+		
+		return "Fill today’s worksheet and mark your attendance";
+		
+	}
+	
 	
 
 }

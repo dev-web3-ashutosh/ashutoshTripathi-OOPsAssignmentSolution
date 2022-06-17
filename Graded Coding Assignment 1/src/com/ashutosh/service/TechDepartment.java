@@ -10,6 +10,12 @@ public class TechDepartment extends SuperDepartment {
 		
 	}
 	
+	public String getTodaysWork() {
+		
+		return "Complete coding of module 1";
+		
+	}
+	
 	
 
 }

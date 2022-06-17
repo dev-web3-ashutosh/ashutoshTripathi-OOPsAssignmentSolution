@@ -12,7 +12,7 @@ public class HRDepartment extends SuperDepartment {
 	
 	public String getTodaysWork() {
 		
-		return "Fill today’s worksheet and mark your attendance";
+		return "Fill today's worksheet and mark your attendance";
 		
 	}
 	

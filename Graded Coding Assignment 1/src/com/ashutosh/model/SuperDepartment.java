@@ -22,7 +22,7 @@ public class SuperDepartment {
 	
 	public String isTodayAHoliday() {
 		
-		return "Today is not a holiday";
+		return "Today is not a Holiday";
 		
 	}
 

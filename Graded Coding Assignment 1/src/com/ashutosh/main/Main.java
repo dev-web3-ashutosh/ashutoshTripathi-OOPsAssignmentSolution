@@ -8,6 +8,8 @@ public class Main {
 		
 		SuperDepartment adminObj = new SuperDepartment();
 		SuperDepartment hrObj = new SuperDepartment();
+		SuperDepartment techObj = new SuperDepartment();
+		
 		
 
 	}

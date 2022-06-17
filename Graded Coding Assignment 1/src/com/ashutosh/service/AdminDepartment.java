@@ -14,6 +14,10 @@ public class AdminDepartment {
 		
 	}
 	
-	
+	public String getWorkDeadline() {
+		
+		return "Complete by EOD";
+		
+	}
 
 }

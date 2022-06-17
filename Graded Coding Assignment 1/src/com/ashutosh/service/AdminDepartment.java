@@ -8,6 +8,12 @@ public class AdminDepartment {
 		
 	}
 
+	public String getTodaysWork() {
+		
+		return "Complete your documents Submission";
+		
+	}
+	
 	
 
 }
